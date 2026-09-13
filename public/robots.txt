@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # رابط خريطة الموقع الرسمية
-Sitemap: https://uae-complaits.com/sitemap.xml
+Sitemap: https://support-consumer.com/sitemap.xml
